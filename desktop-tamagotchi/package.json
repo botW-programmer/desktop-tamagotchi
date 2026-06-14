@@ -1,0 +1,20 @@
+{
+  "name": "desktop-tamagotchi",
+  "version": "1.0.0",
+  "description": "A cute desktop pet widget that monitors system resource utilization.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "widget",
+    "tamagotchi",
+    "system-monitor"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
